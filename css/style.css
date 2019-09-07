@@ -1,0 +1,46 @@
+.center{
+	text-align : center;
+}
+.font-size-s{
+	font-size : small;
+}
+
+.bgColorBottom{
+	background-color: #403e3e
+}
+
+.fontColorBottom{
+	color: #ffffff;
+}
+
+.bottomDirPad{
+	padding-top:20px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.alignRight{
+	text-align: right;
+}
+
+.alignLeft{
+	text-align:left;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-container > div {
+  width: 100%;
+  margin: 10px;
+  line-height: 75px;
+  font-size: 30px;
+}
+
